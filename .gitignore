@@ -1,1 +1,11 @@
+password.txt
+amazon_aws_data.py
 .pyc
+credentials.csv
+__pycache__/
+.ipynb_checkpoints/
+Test.ipynb
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
